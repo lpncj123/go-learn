@@ -1,10 +1,163 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;configurable.GoLibrariesConfigurable.is.expanded&quot;: &quot;true&quot;,
-    &quot;go.import.settings.migrated&quot;: &quot;true&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;go.dep&quot;
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="ALL" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4387c68a-a327-4a4b-8afe-7706ff416688" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/bibao/testbb.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/context/contextexample.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/errorcli/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/errorcli/main_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gomytest/BianliangDingyi.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gomytest/utils/utils.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/myconcurrency/lijiegor.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/myconcurrency/printOneDaoSix.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/myinterface/interfacezh.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/myinterface/myinterface.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mymap/customer.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mymap/maptest.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mytestpackage/test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/concurrency/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/concurrency/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hello_golang/HhelloWorld.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/hello_golang/HhelloWorld.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/main.go" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" url="file://$PROJECT_DIR$/../../go/go1.20.2.windows-amd64/go" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2R8NfQqdiv8x8IJosjg1TdTRHdW" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultGoTemplateProperty": "Go File",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.go.format.on.save.advertiser.fired": "true",
+    "RunOnceActivity.go.formatter.settings.were.checked": "true",
+    "RunOnceActivity.go.migrated.go.modules.settings": "true",
+    "RunOnceActivity.go.modules.go.list.on.any.changes.was.set": "true",
+    "RunOnceActivity.go.watchers.conflict.with.on.save.actions.check.performed": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "configurable.GoLibrariesConfigurable.is.expanded": "true",
+    "go.import.settings.migrated": "true",
+    "go.sdk.automatically.set": "true",
+    "last_opened_file_path": "D:/goproject/gohelloworld/src/mymap",
+    "settings.editor.selected.configurable": "go.dep"
   }
-}</component>
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\goproject\gohelloworld\src\mymap" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\goproject\gohelloworld\src\myinterface" />
+      <recent name="D:\goproject\gohelloworld\src\myconcurrency" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Go Test.TestJian in gohelloworld/src/errorcli">
+    <configuration name="go build gohelloworld/src/errorcli" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="gohelloworld" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <package value="gohelloworld/src/errorcli" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/src/errorcli/main.go" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TestDivide in gohelloworld/src/errorcli" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="gohelloworld" />
+      <working_directory value="$PROJECT_DIR$/src/errorcli" />
+      <root_directory value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <package value="gohelloworld/src/errorcli" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <framework value="gotest" />
+      <pattern value="^\QTestDivide\E$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TestJian in gohelloworld/src/errorcli" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="gohelloworld" />
+      <working_directory value="$PROJECT_DIR$/src/errorcli" />
+      <root_directory value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <package value="gohelloworld/src/errorcli" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <framework value="gotest" />
+      <pattern value="^\QTestJian\E$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TestSum in gohelloworld/src/errorcli" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="gohelloworld" />
+      <working_directory value="$PROJECT_DIR$/src/errorcli" />
+      <root_directory value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <package value="gohelloworld/src/errorcli" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <framework value="gotest" />
+      <pattern value="^\QTestSum\E$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TestSum1 in gohelloworld/src/errorcli" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="gohelloworld" />
+      <working_directory value="$PROJECT_DIR$/src/errorcli" />
+      <root_directory value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <package value="gohelloworld/src/errorcli" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <framework value="gotest" />
+      <pattern value="^\QTestSum1\E$" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Test.TestJian in gohelloworld/src/errorcli" />
+        <item itemvalue="Go Test.TestSum in gohelloworld/src/errorcli" />
+        <item itemvalue="Go Test.TestDivide in gohelloworld/src/errorcli" />
+        <item itemvalue="Go Test.TestSum1 in gohelloworld/src/errorcli" />
+        <item itemvalue="Go Build.go build gohelloworld/src/errorcli" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VgoProject">
+    <settings-migrated>true</settings-migrated>
+  </component>
 </project>
